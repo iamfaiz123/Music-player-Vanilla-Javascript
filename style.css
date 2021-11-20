@@ -23,7 +23,7 @@ body{
 .music_container{
     height:55rem;
     width:35rem;
-    background-color: rgb(83, 76, 75);
+    background-color: rgb(83, 76, 75,.3);
     border-radius:2rem;
     padding:3rem;
     text-align:center;
